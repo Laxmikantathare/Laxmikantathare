@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Laxmikant Athare</h1>
 <h3 align="center">A passionate Front-End Web Developer, and ML / AI enthusiast..</h3>
 
 ---
@@ -9,7 +9,6 @@
 - 🌟 I’m currently working on Back-End Development and Python Libraries.<br/> 
 - ❤️‍🔥 I love to make exciting projects.<br/> 
 - 🎮 **By passion, I'm a devoted gamer.**
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/UoLt6Tm8wlSnWGfSFs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/kodewithklossy-coding-klossy-karliekloss-UoLt6Tm8wlSnWGfSFs"></a></p>
 
 ##                                ⚒️ Technical Skills:
 <br>
