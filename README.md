@@ -31,10 +31,11 @@
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </p>
----
-|<img src="https://github-readme-stats.vercel.app/api?username=Laxmikantathare&show_icons=true&theme=codeSTACKr"></img> |<img src="http://github-readme-streak-stats.herokuapp.com/?user=Laxmikantathare&theme=soft-green&border_radius=1.8)](https://git.io/streak-stats"/>|
- 
----
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Laxmikantathare&show_icons=true&theme=codeSTACKr"></img><img src="http://github-readme-streak-stats.herokuapp.com/?user=Laxmikantathare&theme=merko &border_radius=0.1)(https://git.io/streak-stats"/>
+
+
 ## 🤝 Connect with me  
 <div align="center">
  <a href="http://www.linkedin.com/in/laxmikant-athare-5194ba21a/" target="_blank">
@@ -59,8 +60,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Heart-Disease&show_icons=true&theme=aura_dark"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Spam_Mail_Detection&show_icons=true&theme=dracula"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Gamentech-Blogs&show_icons=true&theme=aura_dark"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Getweathy&show_icons=true&theme=dracula">                                                                                                                                    
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Gamentech-Blogs&show_icons=true&theme=dracula"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmikantathare&repo=Getweathy&show_icons=true&theme=aura_dark">                                                                                                                                    
 </div>
 
                                                                                                  
