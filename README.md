@@ -33,7 +33,6 @@
 </p>
 ---
 |<img src="https://github-readme-stats.vercel.app/api?username=Laxmikantathare&show_icons=true&theme=codeSTACKr"></img> |<img src="http://github-readme-streak-stats.herokuapp.com/?user=Laxmikantathare&theme=soft-green&border_radius=1.8)](https://git.io/streak-stats"/>|
-|---|---|
  
 ---
 ## 🤝 Connect with me  
