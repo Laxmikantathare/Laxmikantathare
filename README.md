@@ -13,23 +13,23 @@
 ##                                ⚒️ Technical Skills:
 <br>
 <p align="center"> 
-  <img alt="C++" src="https://img.shields.io/badge/c++-yellow?&style=for-the-badge&logo=C++&logoColor=red" />
+  <img alt="C++" src="https://img.shields.io/badge/c++-yellow?&style=for-the-badge&logo=c++&logoColor=red" />
  <img alt="Python" src="https://img.shields.io/badge/python-grren?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-orange?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-violet?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-crimson?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="boostrap" src="https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="ReactJs" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
- <img alt="firebase" src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=firebase&logoColor=4EA94B" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql&logoColor=black" />
+ <img alt="firebase" src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=firebase&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-teal?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
  <img alt="jupyter" src="https://img.shields.io/badge/jupyter-olive?logo=jupyter&logoColor=white&style=for-the-badge" />
- <img alt="pandas" src="https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas&logoColor=4EA94B" />
+ <img alt="pandas" src="https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas&logoColor=white" />
  <img alt="numpy" src="https://img.shields.io/badge/numpy-blue?logo=numpy&logoColor=white&style=for-the-badge" />
  <img alt="cnn" src="https://img.shields.io/badge/CNN-brown?logo=cnn&logoColor=white&style=for-the-badge" />
  <img alt="opencv" src="https://img.shields.io/badge/opencv-grey?logo=opencv&logoColor=white&style=for-the-badge" />
-<img alt="flask" src="https://img.shields.io/badge/flask-gold?logo=flask&logoColor=white&style=for-the-badge" />
+<img alt="flask" src="https://img.shields.io/badge/flask-gold?logo=flask&logoColor=black&style=for-the-badge" />
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-navy?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </p>
